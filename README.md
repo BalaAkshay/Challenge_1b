@@ -1,5 +1,3 @@
-Looking at the provided code, I can see this is a foundational component for the persona-driven document intelligence challenge. Let me break down the approach step by step to help you understand how this fits into the larger solution.
-
 **Core Architecture Understanding**
 
 The `DocumentProcessor` class represents the first stage of a multi-phase pipeline. Think of it as a document archaeologist that carefully excavates the structural bones of a PDF before the real intelligence work begins. The class focuses on three fundamental tasks: identifying the document's title, mapping its hierarchical structure, and extracting semantic keywords from headings.
