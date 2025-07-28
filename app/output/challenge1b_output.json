@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-28T16:50:34.764534"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 1,
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 2,
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 3,
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 4,
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 5,
+            "page_number": 5
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o Arrange meats, cheeses, olives, and vegetables on a platter. o Serve with breadsticks.",
+            "page_number": 3,
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped",
+            "page_number": 13,
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o Prepare each side dish separately. o Arrange on small plates. o Serve as accompaniments to the main meal.",
+            "page_number": 5,
+            "importance_rank": 3
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o Mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beaten",
+            "page_number": 3,
+            "importance_rank": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "o Mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beaten",
+            "page_number": 5,
+            "importance_rank": 5
+        }
+    ]
+}
